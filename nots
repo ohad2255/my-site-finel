@@ -1,0 +1,15 @@
+nots
+#947D5D
+#9C7A4B
+#916527
+#6B450F
+        <div class="text">
+            <a class="headline" href="mailto:ohad2255@hotmail.com">ohad2255@hotmail.com</a> 
+            <p>Cell: 0547983350</p>
+            <a class="headline" href="portfolio.pdf" target="_blank">portfolio</a>
+            <div class="contact-form">
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdU0BoVgk1Aw-l1gxBqW5XFsRs1OOtCNbZewLBMf7UwVeuZRQ/viewform?embedded=true" width="304" height="200" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+        </div>
+
+            <link rel="stylesheet" href="contactus.css">
+            <title>contact us</title>

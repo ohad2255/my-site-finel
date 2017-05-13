@@ -1,0 +1,184 @@
+body {
+	margin:0;
+	background-image:url(images/wood-tabel-gallery.png);
+	background-size:cover;
+	height:100%;
+	position: relative;
+	}
+
+#logo {
+	position: absolute;
+	top:-11%;
+	left:-6%;
+	width: 300px;
+}
+
+/*.all {
+	display: flex;
+	height: 100%;
+	justify-content: center;
+	align-items: flex-end;
+}
+
+.main {
+	display: flex;
+}
+
+#left-col {
+	height: 100%;
+}
+
+#left-up {
+
+}
+
+#left-down {
+
+}
+
+#middel {
+	height: 100%;
+}
+
+#right-col {
+height: 100%;
+}
+
+#right-up {
+
+}
+
+#right-down {
+
+}*/
+
+#paper { 
+	position: absolute;
+	background-image:url(images/paper.jpg);margin-top: 200px;
+	width: 1100px;
+	height: 800px;
+	margin-top: -50px;
+	margin-left: 50%;
+	transform: translate(-50%);
+	} 
+#gallery {
+	width: 100%;
+	position: relative;
+	}
+.about-link {
+	color:#fefefe;
+	}
+.gallery-link {
+		color:#fefefe;
+	}
+.mail-link {
+	color:#fefefe;
+	}
+.home-link {
+	color:#fefefe;
+	}
+.copy{
+	color:#fefefe;	
+	}
+#vodka {
+    position: absolute;
+    margin-top: 17%;
+	margin-left: 50%;
+	transform: translate(-50%);
+	height: 430px;
+	}
+
+#Outdoor-Advertising {
+	position: absolute;
+ 	top: 15%;
+	left: 14%;
+	}
+
+#Book-MockUp {
+	position: absolute;
+ 	top: 20%;
+	right: 11%;
+	}
+
+#Stationery {
+	position: absolute;
+	top: 60%;
+	left: 6%;	
+	}
+
+#poster {
+	position: absolute;
+	top: 62%;
+	right: 8%;
+	}
+#instrec {
+	position: absolute;
+	top: 15%;
+	left:50%;
+	transform: translate(-50%);
+	background-color: #fefefe;
+	font-size: 14pt;
+	font-family: Lemonada;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.pen-cup {
+	position: fixed;
+	z-index: 1;
+	width: 170px;
+	top: 60px;
+	left: 230px;
+	}
+
+	.coffee-cup {
+	width: 160px;
+	position: fixed;
+	z-index: 2;
+	top: 150px;
+	left: 1200px;
+	}
+
+	.note{
+	width: 450px;
+	position: fixed;
+	z-index: 3;
+	top: 400px;
+	left: -10px;
+	}
+	.drawing-tool{
+	width: 190px;
+	position: fixed;
+	z-index: 4;
+	top: 440px;
+	left: 1150px;
+	}*/
+
+	

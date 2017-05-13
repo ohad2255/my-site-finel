@@ -1,0 +1,51 @@
+body {
+	margin:0;
+	background-image:url(images/wood-tabel-gallery.png);
+	background-size:cover;
+	height:100%;
+	transition: opacity 1.5s ease;
+	-webkit-user-select: none;
+	position: relative;
+}
+
+#logo {
+	position: absolute;
+	top:-11%;
+	left:-6%;
+	width: 300px;
+}
+
+.background {
+	background-image:url(images/contact-page-background2.png);
+	width: 950px;
+	height: 100%;
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.text { 
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-family: Lemonada;
+	font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+	color: #fefefe
+}
+.mail-link{
+	color: #fefefe;
+}
+.about-link{
+	color: #fefefe;
+}
+.gallery-link{
+	color: #fefefe;
+}
+.home-link{
+	color: #fefefe;
+}
